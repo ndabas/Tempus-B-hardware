@@ -8,9 +8,9 @@ An ATtiny85 microcontroller runs the operation. Six 7-segment digits (in two 3-d
 
 The hardware works. I got the boards fabricated by Elecrow, and everything looks good. I'm working on finalizing the software (which is currently written using Arduino.)
 
-![It's alive!](docs/Tempus B - front.jpg)
+![It's alive!](docs/Tempus%20B%20-%20front.jpg)
 
-![It's alive!](docs/Tempus B - back.jpg)
+![It's alive!](docs/Tempus%20B%20-%20back.jpg)
 
 ## Design
 

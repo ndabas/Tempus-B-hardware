@@ -17752,8 +17752,8 @@ Source: www.kingbright.com</description>
 <part name="B1" library="collected" deviceset="BATTERY" device="CR1220_SMT" value="3000"/>
 <part name="LED3" library="led" deviceset="LED" device="CHIPLED_1206" value="RED"/>
 <part name="LED4" library="led" deviceset="LED" device="CHIPLED_1206" value="LC-BLUE"/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="R1206" value="470R"/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="R1206" value="150R"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="R1206" value="1K"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="R1206" value="470R"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="C9" library="rcl" deviceset="CPOL-EU" device="E2-5" value="100u"/>
 </parts>
